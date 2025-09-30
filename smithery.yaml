@@ -1,0 +1,3 @@
+name: my-mcp-server
+entry: index.js
+language: node
